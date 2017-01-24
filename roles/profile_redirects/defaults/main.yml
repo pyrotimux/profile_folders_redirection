@@ -1,10 +1,5 @@
 ---
-  ps_users:
-    - { name: 'ichiban', pass: 'ichiV@gran7' }
-    - { name: 'niban', pass: 'niV@gran7' }
-    - { name: 'sanban', pass: 'sanV@gran7'}
-    - { name: 'yonban', pass: 'yonV@gran7'}
-  ps_fold_ls:
+  fold_ls:
     - { from: 'Desktop', to: 'Desktop' }
     - { from: 'Documents', to: 'Documents' }
     - { from: 'Personal', to: 'Documents' }

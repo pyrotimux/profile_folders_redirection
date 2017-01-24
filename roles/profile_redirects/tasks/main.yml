@@ -9,5 +9,5 @@
       PsDscRunAsCredential_username: "{{ item[0].name }}"
       PsDscRunAsCredential_password: "{{ item[0].pass }}"
     with_nested:
-      - "{{ ps_users }}"
-      - "{{ ps_fold_ls }}"
+      - "{{ users }}"
+      - "{{ fold_ls }}"

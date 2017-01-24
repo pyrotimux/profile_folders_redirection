@@ -1,10 +1,5 @@
 ---
-  ps_users:
-    - { name: 'ichiban', pass: 'ichiV@gran7' }
-    - { name: 'niban', pass: 'niV@gran7' }
-    - { name: 'sanban', pass: 'sanV@gran7'}
-    - { name: 'yonban', pass: 'yonV@gran7'}
-  ps_folders:
+  folders:
     - Desktop
     - Documents
     - Downloads
